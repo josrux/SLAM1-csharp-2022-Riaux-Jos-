@@ -1,0 +1,7 @@
+C:\Users\Jose\Desktop\C#\SolutionTestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\Jose\Desktop\C#\SolutionTestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\Jose\Desktop\C#\SolutionTestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\Jose\Desktop\C#\SolutionTestHello\TestHello\obj\Debug\TestHello.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\C#\SolutionTestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\C#\SolutionTestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\Jose\Desktop\C#\SolutionTestHello\TestHello\obj\Debug\TestHello.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jose\Desktop\C#\TPpoints\TPpoints\bin\Debug\TPpoints.exe.config
+C:\Users\Jose\Desktop\C#\TPpoints\TPpoints\bin\Debug\TPpoints.exe
+C:\Users\Jose\Desktop\C#\TPpoints\TPpoints\bin\Debug\TPpoints.pdb
+C:\Users\Jose\Desktop\C#\TPpoints\TPpoints\obj\Debug\TPpoints.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\C#\TPpoints\TPpoints\obj\Debug\TPpoints.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\C#\TPpoints\TPpoints\obj\Debug\TPpoints.exe
+C:\Users\Jose\Desktop\C#\TPpoints\TPpoints\obj\Debug\TPpoints.pdb
