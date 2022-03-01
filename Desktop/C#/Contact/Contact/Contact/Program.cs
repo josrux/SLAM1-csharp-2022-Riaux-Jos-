@@ -17,7 +17,7 @@ namespace Contact
             Contact contact5 = new Contact("pz");
             Contact contact6 = new Contact("dez");
             Contact contact7 = new Contact("def");
-
+            
             List<Contact> list = new List<Contact>();
 
             String choix;
@@ -34,6 +34,7 @@ namespace Contact
                 {
                     case "1":
                         Console.WriteLine("Création d'un Contact");
+                        list.Add(new Contact);
                         Console.Read();
                         break;
                     case "2":

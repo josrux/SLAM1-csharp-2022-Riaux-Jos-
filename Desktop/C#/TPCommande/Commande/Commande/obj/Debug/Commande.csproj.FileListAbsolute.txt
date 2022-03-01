@@ -1,0 +1,7 @@
+C:\Users\Jose\Desktop\C#\TPCommande\Commande\Commande\bin\Debug\Commande.exe.config
+C:\Users\Jose\Desktop\C#\TPCommande\Commande\Commande\bin\Debug\Commande.exe
+C:\Users\Jose\Desktop\C#\TPCommande\Commande\Commande\bin\Debug\Commande.pdb
+C:\Users\Jose\Desktop\C#\TPCommande\Commande\Commande\obj\Debug\Commande.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\C#\TPCommande\Commande\Commande\obj\Debug\Commande.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\C#\TPCommande\Commande\Commande\obj\Debug\Commande.exe
+C:\Users\Jose\Desktop\C#\TPCommande\Commande\Commande\obj\Debug\Commande.pdb

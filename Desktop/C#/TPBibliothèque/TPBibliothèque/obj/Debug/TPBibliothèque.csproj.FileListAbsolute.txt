@@ -1,0 +1,7 @@
+C:\Users\Jose\Desktop\C#\TPBibliothèque\TPBibliothèque\bin\Debug\TPBibliothèque.exe.config
+C:\Users\Jose\Desktop\C#\TPBibliothèque\TPBibliothèque\bin\Debug\TPBibliothèque.exe
+C:\Users\Jose\Desktop\C#\TPBibliothèque\TPBibliothèque\bin\Debug\TPBibliothèque.pdb
+C:\Users\Jose\Desktop\C#\TPBibliothèque\TPBibliothèque\obj\Debug\TPBibliothèque.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\C#\TPBibliothèque\TPBibliothèque\obj\Debug\TPBibliothèque.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\C#\TPBibliothèque\TPBibliothèque\obj\Debug\TPBibliothèque.exe
+C:\Users\Jose\Desktop\C#\TPBibliothèque\TPBibliothèque\obj\Debug\TPBibliothèque.pdb

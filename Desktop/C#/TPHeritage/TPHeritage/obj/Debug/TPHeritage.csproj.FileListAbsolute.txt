@@ -1,0 +1,7 @@
+C:\Users\Jose\Desktop\C#\TPHeritage\TPHeritage\bin\Debug\TPHeritage.exe.config
+C:\Users\Jose\Desktop\C#\TPHeritage\TPHeritage\bin\Debug\TPHeritage.exe
+C:\Users\Jose\Desktop\C#\TPHeritage\TPHeritage\bin\Debug\TPHeritage.pdb
+C:\Users\Jose\Desktop\C#\TPHeritage\TPHeritage\obj\Debug\TPHeritage.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\C#\TPHeritage\TPHeritage\obj\Debug\TPHeritage.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\C#\TPHeritage\TPHeritage\obj\Debug\TPHeritage.exe
+C:\Users\Jose\Desktop\C#\TPHeritage\TPHeritage\obj\Debug\TPHeritage.pdb

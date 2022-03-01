@@ -13,7 +13,7 @@ namespace Contact
         private string _Lastname;
         private int _Identifier;
         private string _Firstname;
-        private int _Phone;
+        private string _Phone;
         private string _Email;
         private DateTime _BirthDay;
         private int _ContactedCount;
@@ -32,7 +32,7 @@ namespace Contact
             set { _Identifier = value; }
         }
 
-        public int Phone
+        public string Phone
         {
             get { return _Phone; }
             set { _Phone = value; }
@@ -72,7 +72,7 @@ namespace Contact
         #region Construteur
         public Contact(string nom)
         {
-
+            _Lastname = nom;
         }
         #endregion
     }
